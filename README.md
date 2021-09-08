@@ -39,10 +39,10 @@
   </h2>
   <h2>
   Ferramentas:
-  .
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <hr size="1" width="100%" align="center" noshade>
-  </h2>
+ </h2>
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <hr size="1" width="100%" align="center" noshade>
+  
 
 </p>
  
