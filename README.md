@@ -1,16 +1,47 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1 align="center"> Olá! Meu nome é Danilo Dantas  </h1>
+    <h2 align="center"><i>Seja bem vindo ao meu repositório de projetos  </i> &#128406; </h2> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilo-dantas-j/">
+      <img src="https://img.shields.io/badge/Linkedin-Danilo%20Dantas-blue"/>
+  </a>
+  <a href="https://accounts.google.com/">
+      <img src="https://img.shields.io/badge/Gmail-danilodantasanalytics%40%40gmail.com-important"/>
+  </a>
+    <a href="https://www.instagram.com/_devsoul/">
+      <img src="https://img.shields.io/badge/Instagram-devsoul-critical"/>
+  </a>
+</p>
 
-<!--
-**DaniloDantas/DaniloDantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="/docs/readme_fr.md">English </a>
+  .
+  <a href="/docs/readme_es.md">Español </a>
+  .
+  <a href="/docs/readme_pt-BR.md">Português</a>
+  .
+  <a href="/docs/readme_cn.md">简体中文</a>
+  <hr size="1" width="100%" align="center" noshade>
+</p>
+  <h2>
+  Sobre mim:
 
-Here are some ideas to get you started:
+  <hr size="1" width="100%" align="center" noshade>
+  </h2>
+  <h2>
+  Ferramentas:
+  
+  <hr size="1" width="100%" align="center" noshade>
+  </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+ 
+  </body>
+</html>
