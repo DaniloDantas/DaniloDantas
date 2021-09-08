@@ -20,6 +20,8 @@
   </a>
 </p>
 
+<img src= "https://github.com/DaniloDantas/Image/blob/master/Banner_Art/Banner_Github.png" height="243" width="1000">
+    
 <p align="center">
   <a href="/docs/readme_fr.md">English </a>
   .
