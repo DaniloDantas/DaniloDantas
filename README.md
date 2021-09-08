@@ -30,19 +30,17 @@
   <a href="/docs/readme_pt-BR.md">Português</a>
   .
   <a href="/docs/readme_cn.md">简体中文</a>
-  <hr size="1" width="100%" align="center" noshade>
 </p>
   <h2>
   Sobre mim:
 
-  <hr size="1" width="100%" align="center" noshade>
   </h2>
   <h2>
   Ferramentas:
- </h2>
+  <br \>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <hr size="1" width="100%" align="center" noshade>
-  
+ <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  </h2>
 
 </p>
  
