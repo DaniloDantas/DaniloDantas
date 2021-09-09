@@ -49,6 +49,7 @@
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![MySQL](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
+ ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  
