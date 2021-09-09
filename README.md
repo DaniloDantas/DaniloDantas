@@ -33,7 +33,8 @@
 </p>
     
  <h2>
-  Sobre mim:
+ <img src="https://img.icons8.com/fluency-systems-regular/32/000000/readme.png"/>
+ Sobre mim:
   <br>
   </h2>
 <p> Eu sou um profissional generalista e analítico, por isso estou graduando em estatística com ênfase em Ciência de Dados.</p>
@@ -47,6 +48,7 @@
 <p>No meu tempo livre eu gosto de assistir uma boa série <i>nerd</i> e dar um <i>play</i> em games.</p>
 
   <h2>
+  <img src="https://img.icons8.com/windows/32/000000/administrative-tools.png"/>
     Ferramentas:
   <br \>
   </h2>
