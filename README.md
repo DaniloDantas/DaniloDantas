@@ -38,13 +38,11 @@
   </h2>
 <p> Eu sou um profissional generalista e analítico, por isso estou graduando em estatística com ênfase em Ciência de Dados.</p>
 
-<p>Tenho meu foco em Ciência de Dados porque ao longo da minha carreira profissional trabalhei em startup, tech, varejo e multinacional.</p>
-   
- <p>Tal experiência me proporcionou um vasto conhecimento não apenas sobre tecnologias mas também sobre o mundo de negócios, atuando desde a realização de manutenção em computadores até a criação (junto com o time) de uma estratégia de negócio que gerou mais de 6 digitos em faturamento e ROI superior a 180% dentro de 6 meses.</p>
+<p>Tenho meu foco em Ciência de Dados porque ao longo da minha carreira profissional trabalhei em startup, tech, varejo e multinacional. Tal experiência me proporcionou um vasto conhecimento não apenas sobre tecnologias mas também sobre o mundo de negócios, atuando desde a realização de manutenção em computadores até a criação (junto com o time) de uma estratégia de negócio que gerou mais de 6 digitos em faturamento e ROI superior a 180% dentro de 6 meses.</p>
 
 <p> Esse tripe de Tecnologia, Business e Estatística foram moldando meus caminhos para <i>Data Science</i> </p>
 
-<p>Além disso, sou pai de menina, musicista e tutor de 3 gatos.</p>
+<p>Além disso, sou esposo, pai de menina, musicista e tutor de 3 gatos.</p>
 
 <p>No meu tempo livre eu gosto de assistir uma boa série <i>nerd</i> e dar um <i>play</i> em games.</p>
 
