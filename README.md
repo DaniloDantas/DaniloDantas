@@ -36,11 +36,24 @@
 
   </h2>
   <h2>
-  Ferramentas:
+    Ferramentas:
   <br \>
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   </h2>
+ 
+    - 💻 Uso diário:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![MySQL](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ 
+ - ⚙️ Tenho conhecimento básico:
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ 
+ - 🌱 Estou aprendendo:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 </p>
  
