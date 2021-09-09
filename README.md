@@ -39,8 +39,12 @@
     Ferramentas:
   <br \>
   </h2>
+</p>
  
-    - 💻 Uso diário:
+  </body>
+ </html>
+ 
+  - 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
@@ -55,7 +59,4 @@
  - 🌱 Estou aprendendo:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-</p>
- 
-  </body>
-</html>
+
