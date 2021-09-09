@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1 align="center"> Olá! Meu nome é Danilo Dantas  </h1>
-    <h2 align="center"><i>Seja bem vindo ao meu repositório de projetos  </i> &#; </h2> 
+    <h2 align="center"><i>Seja bem vindo ao meu repositório de projetos  </i> &#128406; </h2> 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-dantas-j/">
       <img src="https://img.shields.io/badge/Linkedin-Danilo%20Dantas-blue"/>
