@@ -31,9 +31,7 @@
   .
   <a href="/docs/readme_cn.md">简体中文</a>
 </p>
-  <h2>
-  Sobre mim:
-  </h2>
+    
  <h2>
   Sobre mim:
   <br>
