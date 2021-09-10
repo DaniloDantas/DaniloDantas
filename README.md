@@ -6,7 +6,6 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <h1 align="center"> Olá! Meu nome é Danilo Dantas  </h1>
     <h2 align="center"><i>Seja bem vindo ao meu repositório de projetos  </i> &#128406; </h2> 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-dantas-j/">
