@@ -74,6 +74,6 @@
  
  ## :building_construction: Projetos:
  - [Projeto de ETL sobre filmes do IMDB](https://github.com/DaniloDantas/Projeto-ETL-sobre-Filmes)
- - [Projeto de ETL sobre Acidentes Aeronáuticos](https://github.com/DaniloDantas/projeto-ETL-Acidentes-aereos)
+ - [Projeto de ETL sobre Acidentes Aeronáuticos](https://github.com/DaniloDantas/projeto-ETL-Acidentes-aereos/blob/main/ProjetoETL_Acidentes_Aeronauticos.ipynb)
 
 
