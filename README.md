@@ -75,5 +75,5 @@
  ## :building_construction: Projetos:
  - [Projeto de ETL sobre filmes do IMDB](https://github.com/DaniloDantas/Projeto-ETL-sobre-Filmes/blob/main/Mini_Projeto_Filmes_DSA.ipynb)
  - [Projeto de ETL sobre Acidentes Aeronáuticos](https://github.com/DaniloDantas/projeto-ETL-Acidentes-aereos/blob/main/ProjetoETL_Acidentes_Aeronauticos.ipynb)
-
+ - [Projeto: Dashboard em Power BI](https://github.com/DaniloDantas/Projeto_Dashboard_PowerBI)
 
